@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VivekxEverywhere/DSA/tree/master/0007-reverse-integer) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VivekxEverywhere/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
