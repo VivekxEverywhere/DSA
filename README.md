@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/VivekxEverywhere/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/VivekxEverywhere/DSA/tree/master/0009-palindrome-number) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VivekxEverywhere/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
