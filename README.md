@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/VivekxEverywhere/DSA/tree/master/0097-interleaving-string) |
+| [0125-valid-palindrome](https://github.com/VivekxEverywhere/DSA/tree/master/0125-valid-palindrome) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -31,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VivekxEverywhere/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/VivekxEverywhere/DSA/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
