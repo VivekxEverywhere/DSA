@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekxEverywhere/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/VivekxEverywhere/DSA/tree/master/0485-max-consecutive-ones) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VivekxEverywhere/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Greedy
 |  |
