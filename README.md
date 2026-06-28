@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekxEverywhere/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/VivekxEverywhere/DSA/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/VivekxEverywhere/DSA/tree/master/0704-binary-search) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VivekxEverywhere/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## Greedy
 |  |
@@ -57,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/VivekxEverywhere/DSA/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1683-invalid-tweets](https://github.com/VivekxEverywhere/DSA/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/VivekxEverywhere/DSA/tree/master/1757-recyclable-and-low-fat-products) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/VivekxEverywhere/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
