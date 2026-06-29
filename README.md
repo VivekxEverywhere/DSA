@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VivekxEverywhere/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekxEverywhere/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/VivekxEverywhere/DSA/tree/master/0035-search-insert-position) |
 | [0485-max-consecutive-ones](https://github.com/VivekxEverywhere/DSA/tree/master/0485-max-consecutive-ones) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VivekxEverywhere/DSA/tree/master/0014-longest-common-prefix) |
 | [0097-interleaving-string](https://github.com/VivekxEverywhere/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/VivekxEverywhere/DSA/tree/master/0125-valid-palindrome) |
 | [1903-largest-odd-number-in-string](https://github.com/VivekxEverywhere/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/VivekxEverywhere/DSA/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/VivekxEverywhere/DSA/tree/master/0704-binary-search) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/VivekxEverywhere/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
