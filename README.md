@@ -12,12 +12,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/VivekxEverywhere/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VivekxEverywhere/DSA/tree/master/3689-maximum-total-subarray-value-i) |
 ## String
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/VivekxEverywhere/DSA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/VivekxEverywhere/DSA/tree/master/0125-valid-palindrome) |
+| [1903-largest-odd-number-in-string](https://github.com/VivekxEverywhere/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/VivekxEverywhere/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VivekxEverywhere/DSA/tree/master/0009-palindrome-number) |
 | [0509-fibonacci-number](https://github.com/VivekxEverywhere/DSA/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/VivekxEverywhere/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/VivekxEverywhere/DSA/tree/master/3558-number-of-ways-to-assign-edge-weights-i) |
 ## Tree
 |  |
