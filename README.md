@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/VivekxEverywhere/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekxEverywhere/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/VivekxEverywhere/DSA/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekxEverywhere/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0485-max-consecutive-ones](https://github.com/VivekxEverywhere/DSA/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/VivekxEverywhere/DSA/tree/master/0704-binary-search) |
 | [3689-maximum-total-subarray-value-i](https://github.com/VivekxEverywhere/DSA/tree/master/3689-maximum-total-subarray-value-i) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekxEverywhere/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VivekxEverywhere/DSA/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekxEverywhere/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/VivekxEverywhere/DSA/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekxEverywhere/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/VivekxEverywhere/DSA/tree/master/0704-binary-search) |
 ## Trie
 |  |
